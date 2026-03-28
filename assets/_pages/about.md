@@ -546,23 +546,12 @@ Immersive Multimedia Computing.</p>
     </tr> -->
 For more papers, please kindly refer to [my Google Scholar page](https://scholar.google.com/citations?user=PbPTiKYAAAAJ&hl=zh-CN&oi=ao).
 
-<!--<span class='anchor' id='ha'></span>
+<span class='anchor' id='ha'></span>
 
 # <font color="#2B6ADD"> Honors and Awards </font>
-- 2022 Distinguished Reviewer of IEEE TMI
-- 2022 Outstanding Reviewer of IEEE TNNLS
-- 2022 National Science Fund for Excellent Young Scholars by NSFC (国家优秀青年基金)
-- 2021 Jiangsu Province Science Fund for Outstanding Young Scholars (江苏省杰出青年科学基金)
-- 2017 CCF-Tencent Open Fund
-- 2017 Excellent Doctoral Dissertation of CAAI (中国人工智能学会优博)
-- 2017 Excellent Doctoral Dissertation of Jiangsu Province, China
-- 2017 Excellent Doctoral Dissertation of Jiangsu Computer Society, China
-- 2017 Excellent Doctoral Dissertation of Nanjing University of Science and Technology, China
-- 2016 Best Student Paper in MMM 2016
-- 2015 Best Paper Runner-up in ACM Multimedia 2015
-- 2015 China National Scholarship
-- 2015 ACM MM 2015 Travel Grant
--->
+- "Robust Enhancement and Precise Evaluation of Ubiquitous Low-Quality Visual Information" project, <b>awarded First Prize of Zhejiang Provincial Natural Science Award 2024 (Lead Researcher)</b>
+- "Theory and Methods for Visual Quality Enhancement of Underwater Optical Imaging" project, <b>awarded Second Prize of Ningbo Municipal Natural Science Award 2024 (Lead Researcher)</b>
+
 
 <span class='anchor' id='Service'></span>
 
