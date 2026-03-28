@@ -9,7 +9,7 @@ main:
   - title: "Selected Publications"
     url: "/#pub"
 
-   - title: "Honors and Awards"
+  - title: "Honors and Awards"
     url: "/#ha"
   # - title: "Research Projects"
   #   url: "/#funding"
